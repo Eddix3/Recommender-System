@@ -1,6 +1,4 @@
-# recommender-systems-team-b
-
-Praxisprojekt "Recommender Systems" TH Lübeck SoSe 2021
+# Praxisprojekt "Recommender Systems" TH Lübeck SoSe 2021
 
 This project was originally developed as a practical project by four people. The recommender system consisted of a collaborative and content-based approach. The content-based approach was developed by [Nicklas Hummelsheim](https://github.com/hummelsheim) and [Edward Suer](https://github.com/Eddix3).
 
