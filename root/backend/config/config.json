@@ -1,0 +1,9 @@
+{
+  "minEntries": 50,
+  "simAcceptThreshold": 0.9,
+  "simDiscardThreshold": 0.6,
+  "daysValid": 7,
+  "defaultDistance": 5000,
+  "numberOfNeighbors": 5,
+  "numberOfRecommendations": 10
+}

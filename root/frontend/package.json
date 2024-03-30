@@ -1,0 +1,36 @@
+{
+  "name": "recommender-system",
+  "version": "1.0.0",
+  "description": "Praxisprojekt​ \"Recommender System\" TH Lübeck SoSe 2021",
+  "main": "node_modules/expo/AppEntry.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "@reduxjs/toolkit": "^1.6.0",
+    "body-parser": "^1.19.0",
+    "expo": "^41.0.1",
+    "expo-constants": "^10.1.3",
+    "expo-location": "^12.0.4",
+    "expo-status-bar": "^1.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native": "^0.63.2",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-maps": "0.28.0",
+    "react-native-pager-view": "^5.2.1",
+    "react-native-paper": "^4.9.1",
+    "react-native-screens": "^3.4.0",
+    "react-native-tab-view": "^3.0.1",
+    "react-native-web": "^0.16.5",
+    "react-redux": "^7.2.4",
+    "react-native-safe-area-context": "3.2.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "react-native-reanimated": "~2.1.0"
+  }
+}
